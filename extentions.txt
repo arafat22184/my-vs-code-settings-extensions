@@ -1,6 +1,13 @@
-1. Andromeda
-2. Auto Close Tag
-3. Auto Rename Tag
-4. Live Server
-5. Material Icon Theme
-6. Tailwind CSS IntelliSense
+1. Andromeda (Arthur: Eliver Lara)
+
+2. Auto Close Tag  (Arthur: Jun Han)
+
+3. Auto Rename Tag (Arthur: Ritwick Dey)
+
+4. Live Server (Arthur: Philipp Kief)
+
+5. Material Icon Theme (Arthur: Eliver Lara)
+
+6. Tailwind CSS IntelliSense (Arthur: Tailwind Labs)
+
+7. Code Spell Checker (Arthur: Street Side Software)
