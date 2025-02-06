@@ -1,0 +1,6 @@
+1. Andromeda
+2. Auto Close Tag
+3. Auto Rename Tag
+4. Live Server
+5. Material Icon Theme
+6. Tailwind CSS IntelliSense
