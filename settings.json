@@ -1,0 +1,53 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontFamily": "FiraMono Nerd Font",
+  "workbench.colorTheme": "Andromeda Bordered",
+  // Procoder
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3",
+    // Sumit
+    // terminal customization
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#000122",
+    "terminal.foreground": "#fffffe",
+    "terminalCursor.background": "#000000",
+    "terminalCursor.foreground": "#ffffff",
+    "terminal.ansiBlack": "#ffffff",
+    "terminal.ansiBlue": "#8400ff",
+    "terminal.ansiBrightBlack": "#979797",
+    "terminal.ansiBrightBlue": "#00d9ff",
+    "terminal.ansiBrightCyan": "#8BA59B",
+    "terminal.ansiBrightGreen": "#44ff00",
+    "terminal.ansiBrightMagenta": "#ff009d",
+    "terminal.ansiBrightRed": "#ff1e00",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightYellow": "#fbff00",
+    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiGreen": "#44ff00",
+    "terminal.ansiMagenta": "#ff009d",
+    "terminal.ansiRed": "#dd1a00",
+    "terminal.ansiWhite": "#fffb00",
+    "terminal.ansiYellow": "#eeff00"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#95afc0"
+  }
+}
