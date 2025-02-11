@@ -6,8 +6,10 @@
 
 4. Live Server (Arthur: Philipp Kief)
 
-5. Material Icon Theme (Arthur: Eliver Lara)
+5. ESLint (Microsoft)
+
+6. Material Icon Theme (Arthur: Eliver Lara)
 
 6. Tailwind CSS IntelliSense (Arthur: Tailwind Labs)
 
-7. Code Spell Checker (Arthur: Street Side Software)
+
