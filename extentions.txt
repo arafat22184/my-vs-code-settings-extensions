@@ -4,12 +4,24 @@
 
 3. Auto Rename Tag (Arthur: Ritwick Dey)
 
-4. Live Server (Arthur: Philipp Kief)
+4. ESLint (Microsoft)
 
-5. ESLint (Microsoft)
+5. JavaScript (ES6) code snippets
 
-6. Material Icon Theme (Arthur: Eliver Lara)
+6. Live Server (Arthur: Philipp Kief)
 
-6. Tailwind CSS IntelliSense (Arthur: Tailwind Labs)
+7. Material Icon Theme (Arthur: Eliver Lara)
 
+8. npm intellisense
 
+9. Path Intellisense
+
+10. Prettier-Code formatter
+
+11. React Extension Pack
+
+12. Reactjs code snippets
+
+13. Search node_modules
+
+14. Tailwind CSS IntelliSense (Arthur: Tailwind Labs)
